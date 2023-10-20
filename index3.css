@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Josefin Sans", sans-serif;
+}
+body {
+  background-color: rgb(248, 158, 224);
+}
+form {
+  text-align: center;
+}
+h2 {
+  margin-top: 40px;
+}
+label {
+  font-size: 24px;
+}
+
+div img {
+  width: 30px;
+  height: 30px;
+}
+h1 {
+  margin-top: 20px;
+}
+#gender {
+  padding-right: 60px;
+}
+#lang {
+  margin-bottom: 60px;
+}
+.languages label {
+  margin-right: 30px;
+}
+.purple {
+  padding: 14px 28px;
+  background-color: rgb(209, 155, 205);
+  border-radius: 14px;
+  border: 1px solid white;
+  color: white;
+}
+.pink {
+  padding: 18px 32px;
+  background-color: rgb(247, 100, 178);
+  border-radius: 24px;
+  border: 1px solid white;
+  color: mediumvioletred;
+  color: white;
+}
+#document {
+  margin-bottom: 20px;
+}
+.buttons {
+  margin-top: 30px;
+}
+
+.social{
+  margin-top: 30px;
+}
+
+#select{
+  margin-top: 15px;
+}
+
+
+
+.family{
+  margin-top: 100px;
+}
+
+.media{
+  margin-top: 100px;
+}
+
+
+#gender{
+margin-top: 100px;
+}
+
+.securty{
+  margin-top: 100px;
+}
+
+.record{
+  margin-top: 20px;
+}
+
+#lang{
+  margin-top: 100px;
+}
+
+.languages{
+  margin-bottom: 20px;
+}
+
+#document{
+  margin-top: 100px;
+}
+/* .c-v{
+  margin-left: 130px;
+  
+} */
+
+.pasport-2{
+margin-left: 280px;
+}
+
+.information{
+margin-top: 100px;
+}
+
+.textarea{
+  margin-top: 50px;
+}
